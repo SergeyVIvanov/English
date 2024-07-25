@@ -100,7 +100,7 @@
     <None Include="ComparativeAdjectives.yaml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="SuperlativeAdjectives - Copy.yaml">
+    <None Include="Few_A few_Little_A little.yaml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="SuperlativeAdjectives.yaml">
