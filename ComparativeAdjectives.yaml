@@ -1,0 +1,26 @@
+caption: ComparativeAdjectives
+questions:
+- f: Моя паста холоднее, чем ваша.
+  t: My pasta is colder than yours.
+- f: Моя паста намного холоднее вашей.
+  t: My pasta is much colder than yours.
+- f: Моя паста немного холоднее, чем ваша.
+  t: My pasta is a little colder than yours.
+- f: Рон более чувствительный, чем я.
+  t: Ron is more sensitive than me.
+- f: Рон намного чувствительнее меня.
+  t: Ron is much more sensitive than me.
+- f: Рон немного более чувствительный, чем я.
+  t: Ron is a little more sensitive than me.
+- f: Мое лицо менее красное, чем ваше.
+  t: My face is less red than yours.
+- f: Мое лицо гораздо менее красное, чем ваше.
+  t: My face is much less red than yours.
+- f: Мое лицо немного менее красное, чем ваше.
+  t: My face is a little less red than yours.
+- f: Фильм не такой скучный, как я думал.
+  t: The film is less boring than I thought.
+- f: Фильм гораздо менее скучный, чем я думал.
+  t: The film is much less boring than I thought.
+- f: Фильм немного менее скучный, чем я думал.
+  t: The film is a little less boring than I thought.

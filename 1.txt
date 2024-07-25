@@ -1,0 +1,36 @@
+caption: 1. Present continuous
+questions:
+- a: She's taking a picture.
+  q: Она фотографирует.
+- a: He's tying a shoelace.
+  q: Он завязывает шнурок на ботинке.
+- a: They're crossing a road.
+  q: Они переходят дорогу.
+- a: He's scratching his head.
+  q: Он чешет голову.
+- a: She's hiding behind a tree.
+  q: Она прячется за деревом.
+- a: They're waving to somebody.
+  q: Они машут кому-то рукой.
+- a: Please don't make so much noise. I'm trying to work.
+  q: Пожалуйста, не шумите так сильно. Я пытаюсь работать.
+- a: We need to leave soon. It's getting late.
+  q: Нам нужно скоро уйти. Становится поздно.
+- a: I don't have anywhere to live right now. I'm staying with friends.
+  q: Мне сейчас негде жить. Я остаюсь у друзей.
+- a: I need to eat something soon. I'm getting hungry.
+  q: Мне нужно что-нибудь съесть поскорее. Я проголодался.
+- a: They don't need their car any more. They're trying to sell it.
+  q: Им больше не нужна их машина. Они пытаются ее продать.
+- a: Things are not so good at work. The company is losing money.
+  q: На работе дела обстоят не лучшим образом. Компания теряет деньги.
+- a: It isn't true what they say. They're lying.
+  q: Это неправда, что они говорят. Они лгут.
+- a: We're going to get wet. It's starting to rain.
+  q: Мы промокнем. Начинается дождь.
+- a: What’s all that noise? What’s happening?
+  q: Что это за шум? Что происходит?
+- a: What’s the matter? Why are you crying?
+  q: В чем дело? Почему ты плачешь?
+- a: Where’s your mother? Is she working today?
+  q: Где твоя мама? Она работает сегодня?

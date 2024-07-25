@@ -1,0 +1,14 @@
+caption: Few/A few, Little/A little
+questions:
+- f: В холодильнике мало еды. Он почти пуст.
+  t: There is little food in the fridge. It's almost empty.
+- f: В холодильнике очень мало еды. Он почти пуст.
+  t: There is very little food in the fridge. It's almost empty.
+- f: В холодильнике есть немного еды.
+  t: There is a little food in the fridge.
+- f: В театре было мало людей.
+  t: There were few people in the theater.
+- f: В театре было очень мало людей.
+  t: There were very few people in the theater.
+- f: Когда пришла Сара? Несколько минут назад.
+  t: When did Sarah come? A few minutes ago.

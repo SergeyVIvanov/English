@@ -1,0 +1,22 @@
+﻿caption: SuperlativeAdjectives
+questions:
+- t: smaller/the smallest
+  f: small
+- t: larger/the largest
+  f: large
+- t: scarier/the scariest
+  f: scary
+- t: bigger/the biggest
+  f: big
+- t: more interesting/the most interesting
+  f: interesting
+- t: better/the best
+  f: good
+- t: worse/the worst
+  f: bad
+- t: more/the most
+  f: much, many
+- t: less/the least
+  f: little
+- t: "1. farther /ˈfɑːrðər/ 2. further /ˈfɜːrðər/ | 1. the farthest /ˈfɑːrðɪst/ 2. the furthest /ˈfɜːrðɪst/"
+  f: "far: 1. about distance 2. extra, more"
