@@ -158,7 +158,7 @@ namespace English
 
         private void ShowAnswer()
         {
-            label1.Text = _questionInfo.Answer;
+            label1.Text = _questionInfo.Question + "\n\n" + _questionInfo.Answer;
             _isQuestion = false;
 
             if (_useButton)

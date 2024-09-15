@@ -1,4 +1,4 @@
-caption: 1. Present continuous
+caption: Blue. 1. Present continuous
 questions:
 - a: She's taking a picture.
   q: Она фотографирует.
@@ -28,9 +28,11 @@ questions:
   q: Это неправда, что они говорят. Они лгут.
 - a: We're going to get wet. It's starting to rain.
   q: Мы промокнем. Начинается дождь.
-- a: What’s all that noise? What’s happening?
+- a: What’s (all) that noise? What’s happening?
   q: Что это за шум? Что происходит?
 - a: What’s the matter? Why are you crying?
   q: В чем дело? Почему ты плачешь?
 - a: Where’s your mother? Is she working today?
   q: Где твоя мама? Она работает сегодня?
+- a: I haven’t seen you for ages.
+  q: Я не видел тебя целую вечность.
